@@ -21,8 +21,7 @@ struct ContentView: View {
                 .padding()
         }
         .padding(25)
-        .ignoresSafeArea(edges: .all)
-        .background(.gray)
+        
     }
 }
 
